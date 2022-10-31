@@ -12,3 +12,6 @@ This command can make the project run but before hands install the libraries of 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ![Screenshot 2022-10-31 111755](https://user-images.githubusercontent.com/96385473/198985827-b99963c6-4ceb-45bf-9eb7-224317c8f6ec.png)
+
+----
+<strong>Contributors :[Hideki Natsumi](https://github.com/HidekiNatsumi) 

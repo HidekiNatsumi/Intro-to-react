@@ -1,7 +1,8 @@
+import react from "react";
 import logo from "./logo.svg";
 
-import ExpensesObject from "./components/ExpensesObject";
-import ExpenseItem from "./components/ExpenseItem";
+import ExpensesObject from "./components/Expenses/ExpensesObject";
+import ExpenseItem from "./components/Expenses/ExpenseItem";
 
 function App() {
   const expenses = [

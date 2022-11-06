@@ -44,6 +44,15 @@ function App() {
       </header>
     </div>
   );
+/*
+  return
+  React.createElement(
+    "div",
+    {},
+    React.createElement("h2", {}, "Lets get started!"),
+    React.createElement(ExpensesObject, { expenses: expenses })
+  );
+  */
 }
 
 export default App;

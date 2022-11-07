@@ -13,7 +13,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Project Output(Screenshot)
 -
-![Screenshot 2022-10-31 111755](https://user-images.githubusercontent.com/96385473/198985827-b99963c6-4ceb-45bf-9eb7-224317c8f6ec.png)
+![image](https://user-images.githubusercontent.com/96385473/200427295-4df9f85d-3bab-4129-b2d2-5dcd565b97b2.png)
+
 
 ----
 <strong>Contributors :[Hideki Natsumi](https://github.com/HidekiNatsumi) 

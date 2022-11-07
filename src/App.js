@@ -1,10 +1,7 @@
-import react from "react";
-import logo from "./logo.svg";
-
+import React from "react";
 import ExpensesObject from "./components/Expenses/ExpensesObject";
-import ExpenseItem from "./components/Expenses/ExpenseItem";
-
-function App() {
+import NewExpense from "./components/NewExpense/NewExpense";
+const App = () => {
   const expenses = [
     {
       id: "e1",
@@ -30,21 +27,8 @@ function App() {
       amount: 31.15,
       date: new Date(2021, 2, 28),
     },
-    {
-      id: "e5",
-      title: "Cinema ticket",
-      amount: 121.25,
-      date: new Date(2021, 4, 2),
-    },
   ];
-  return (
-    <div className="App">
-      <header className="App-header">
-        <ExpensesObject expenses={expenses} />
-      </header>
-    </div>
-  );
-/*
+  /*
   return
   React.createElement(
     "div",
@@ -53,6 +37,14 @@ function App() {
     React.createElement(ExpensesObject, { expenses: expenses })
   );
   */
-}
+  return (
+    <div className="App">
+      <header className="App-header">
+        <NewExpense />
+        <ExpensesObject expenses={expenses} />
+      </header>
+    </div>
+  );
+};
 
 export default App;

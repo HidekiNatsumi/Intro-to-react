@@ -13,7 +13,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 Project Output(Screenshot)
 -
-![image](https://user-images.githubusercontent.com/96385473/200427295-4df9f85d-3bab-4129-b2d2-5dcd565b97b2.png)
+![image](https://user-images.githubusercontent.com/96385473/200966328-eab07e64-849f-48af-92d4-f778a59fb682.png)
 
 
 ----
